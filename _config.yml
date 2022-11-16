@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My Website
+title: Piazza Panic!
 
 # Your name to show in the footer
-author: Some Person
+author: Team 10
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Project Overview: "Overview"
+  Assessments:
+    - Assessment 1:
+    - Assessment 2: 
+  Meet the Team: 
 
 ################
 # --- Logo --- #

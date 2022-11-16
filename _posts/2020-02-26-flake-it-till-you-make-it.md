@@ -1,11 +1,29 @@
 ---
 layout: post
 title: Progress Update
-subtitle: Progress update 1
+subtitle: Progress update 1 - Meeting notes
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Update]
 ---
-we made website and made github repo :)
+Wednesday 16th November 2022 (in-person at the practical):
+ALL MEMBERS PRESENT
+Minutes = 120
+Plan:
+- Decide on questions for customer (Antonio)
+- Decide on methodology 
+- Setup GitHub 
+- Setup GitHub website (just create it essentially)
+- Create (or at least start to make) a project plan 
+What we actually got done:
+- Setup the GitHub repository for our project
+- Setup our website in the Github repository
+- We have decided upon the scrum methodology which has then allowed us to start working on a project plan
+- Laid out a documentation file to show planning and formative ideas from throughout the project.
+- Described and explained our chosen methodology.
+To do for next week:
+- Learn basics of libGDX
+- Scrum methodology research
+- Write up requirements from customer meeting
 

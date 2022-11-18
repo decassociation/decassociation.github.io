@@ -10,3 +10,13 @@ for:</p>
   <li> Moving the cooks</li>
   <li> Interacting with what’s in front of the cook (chop / flip / grab an ingredient or dish / place what they are carrying)</li>
 </ul>
+<p>Customers will arrive at different intervals, demanding to be served a recipe within a given time limit.</p>
+<p>  Two game modes will be supported: </p>  
+<ul>
+  <li>○ A “scenario” mode with a configurable number of customers to be served (default to 5).</li>
+  <li>An "endless" mode where customers will keep arriving more and more often until you lose.</li>
+</ul>
+<p>  Each recipe will require different preparation steps at different "cooking stations"</p>
+<ul>
+  <li>○ Each preparation step will require the player to take control of the staff member at certain points in time (e.g. flipping a patty so it doesn't burn, or cutting the vegetables for the salad).</li>
+  <li>If they fail the preparation step (e.g. the patty is burnt or the vegetables are not cut well), they will have to repeat the step.</li>

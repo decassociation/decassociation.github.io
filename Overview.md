@@ -27,7 +27,7 @@ for:</p>
 <p>  There should be cooking stations for cutting, baking, frying, and serving.</p>
 <p>  There should be a pantry with “ingredient stations”:</p>
 <ul>
-  <li> Cooks can interact with an ingredient station to add an ingredient to the top of the stack they carry.
-  <li> Cooks carrying ingredients can then interact with a cooking station to drop their top ingredient on it.
+  <li> Cooks can interact with an ingredient station to add an ingredient to the top of the stack they carry.</li>
+  <li> Cooks carrying ingredients can then interact with a cooking station to drop their top ingredient on it.</li>
   <li>Ingredients never run out.</li>
 </ul>

@@ -1,0 +1,9 @@
+Check list of website patches
+
+- finish overview page
+- add links and sections to assessment 1 page
+- add links and sections to assessment 2 page
+- update team introduction section
+- create section for GANTT graphs (this could be updated weekly in the weekly updates on the home page, and a completed version added to the assessment page later on?)
+- add this weeks progress update
+- create and collate all our game assets and publish them on the website

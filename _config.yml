@@ -24,7 +24,7 @@ navbar-links:
   Assessments:
     - Assessment 1: "Deliverables"
     - Assessment 2: 
-  Meet the Team: 
+  Meet the Team: "Team"
 
 ################
 # --- Logo --- #

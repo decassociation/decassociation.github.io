@@ -30,7 +30,7 @@ navbar-links:
 # --- Logo --- #
 ################
 
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/smalllogo.png"
 round-avatar: true
 
 #####################################

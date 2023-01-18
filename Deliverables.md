@@ -8,6 +8,7 @@
 
 <h2> Architecture </h2>
 <a href="https://github.com/decassociation/decassociation.github.io/blob/master/Deliverables%20for%20Assessment%201/Arch1_.docx">Click to View & Download</a>
+<h5>CRC Cards:</h5><a href="https://github.com/decassociation/decassociation.github.io/tree/master/CRC-Cards">Click to View & Download</a>
 
 <h2>Requirements </h2>
 <a href="https://github.com/decassociation/decassociation.github.io/blob/master/Deliverables%20for%20Assessment%201/Req1.docx">Click to View & Download</a>

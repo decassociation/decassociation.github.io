@@ -23,7 +23,6 @@ navbar-links:
   Project Overview: "Overview"
   Assessments:
     - Assessment 1: "Deliverables"
-      - Deliverables: "Architecture"
     - Assessment 2: "Deliverables2"
   Meet the Team: "Team"
 

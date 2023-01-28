@@ -7,11 +7,11 @@
   <body>
     <nav>
       <ul>
-          <li><h3><a href="Architecture.html">Architecture</a></h3></li>
-        <li><h3><a href="RiskMitigation.html">Risk Mitigation</a></h3></li>
-        <li><h3><a href="MethodPlanning.html">Method Planning</a></h3></li>
-        <li><h3><a href="Requirements.html">Requirements</a></h3></li>
-        <li><h3><a href="Implementation.html">Implementation</a></h3></li>
+          <li><h3><a href="Architecture.md">Architecture</a></h3></li>
+        <li><h3><a href="RiskMitigation.md">Risk Mitigation</a></h3></li>
+        <li><h3><a href="MethodPlanning.md">Method Planning</a></h3></li>
+        <li><h3><a href="Requirements.md">Requirements</a></h3></li>
+        <li><h3><a href="Implementation.md">Implementation</a></h3></li>
       </ul>
     </nav>
   </body>

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
         <h1>Assessment 1 - Deliverables</h1>

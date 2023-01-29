@@ -1,6 +1,6 @@
 <h1>Assessment 1 - Deliverables</h1>
 <h2>Risk Mitigation</h2>
-<a href="risk-mitigation.html">Click to View & Download</a>
+<a href="https://decassociation.github.io/risk-mitigation.html">Click to View & Download</a>
 <h2>Method Planning</h2>
 <a href="method-planning.html">Click to View & Download</a>
 <h2>Architecture</h2>

@@ -18,3 +18,5 @@
 <a href="https://github.com/decassociation/decassociation.github.io/blob/master/Deliverables%20for%20Assessment%201/Req1.docx">Click to View & Download</a>
 <h2>Implementation</h2>
 <a href="https://github.com/decassociation/decassociation.github.io/blob/master/Deliverables%20for%20Assessment%201/Impl1.docx">Click to View & Download</a>
+<h2> GANTT Charts </h2>
+<a href="https://decassociation.github.io/Deliverables/Architecture.html">Test Link</a>

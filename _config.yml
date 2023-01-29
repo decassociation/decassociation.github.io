@@ -20,12 +20,16 @@ author: Team 10
 ###############################################
 
 navbar-links:
-  Project Overview: "Overview"
+  Project Brief: "Overview"
   Downloads: "Downloads"
 
   Deliverables:
-    - Assessment 1: "Deliverables"
-    - Assessment 2: "Deliverables2"
+    - Architecture: "Architecture"
+    - Risk Mitigation: "Risk-Mitigation"
+    - Method Planning: "Method Planning"
+    - Requirements: "Requirements"
+    - Implementation: "Implementation"
+    - GANTT Charts: "ganttcharts"
   Meet the Team: "Team"
 
 ################

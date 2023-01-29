@@ -9,6 +9,7 @@
 <h3>UML Diagrams</h3>
 <p> To complete our design architecture, we built UML diagrams, listed below:</p>
 <img src="/assets/img/gant1.png" alt="Architecture Image">
+<p></p>
 <i>These are the <b>prototype</b> UML Diagrams we developed, which ended up changing as our development progressed:</i>
 <img src="/assets/img/gant1.png" alt="Architecture Image">
 <img src="/assets/img/gant2.png" alt="Architecture Image">

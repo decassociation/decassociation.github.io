@@ -6,11 +6,11 @@
 <p>The first stage of our design process was focused on psuedo-implementation, and working on the handwritten CRC Cards below:</p>
 <h3>UML Diagrams</h3>
 <p> To complete our design architecture, we built UML diagrams, listed below:</p>
-<img src="assets/img/diagram1.png" alt="Architecture Image">
-<img src="assets/img/diagram2.png" alt="Architecture Image">
-<img src="assets/img/diagram3.png" alt="Architecture Image">
-<img src="assets/img/diagram4.png" alt="Architecture Image">
-<img src="assets/img/diagram5.png" alt="Architecture Image">
-<img src="assets/img/diagram6.png" alt="Architecture Image">
+<img src="/assets/img/diagram1.png" alt="Architecture Image">
+<img src="/assets/img/diagram2.png" alt="Architecture Image">
+<img src="/assets/img/diagram3.png" alt="Architecture Image">
+<img src="/assets/img/diagram4.png" alt="Architecture Image">
+<img src="/assets/img/diagram5.png" alt="Architecture Image">
+<img src="/assets/img/diagram6.png" alt="Architecture Image">
 
 

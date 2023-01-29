@@ -4,7 +4,7 @@
 <h2>Method Planning</h2>
 <a href="method-planning.html">Click to View & Download</a>
 <h2>Architecture</h2>
-<a href="architecture.html">Click to View & Download</a>
+<a href="https://decassociation.github.io/Deliverables/Architecture.html">Click to View & Download</a>
 <h2>Requirements</h2>
 <a href="requirements.html">Click to View & Download</a>
 <h2>Implementation</h2>

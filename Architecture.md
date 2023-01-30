@@ -7,18 +7,14 @@
 <img src="/CRC/combined1.PNG" alt="Architecture Image">
 <img src="/CRC/combined2.PNG" alt="Architecture Image">
 <h3>UML Diagrams</h3>
-<p> To complete our design architecture, we built UML diagrams, listed below:</p>
-<img src="/assets/img/gant1.png" alt="Architecture Image">
+<p> <b>To complete our design architecture, we built UML class diagrams, listed below:<b></p>
 <p></p>
-<i>These are the <b>prototype</b> UML Diagrams we developed, which ended up changing as our development progressed:</i>
-<img src="/assets/img/gant1.png" alt="Architecture Image">
-<img src="/assets/img/gant2.png" alt="Architecture Image">
-<img src="/assets/img/gant3.png" alt="Architecture Image">
+<i>These are the <b>prototype/interim</b> UML Diagrams we developed, which ended up changing as our development progressed:</i>
+<img src="/assets/img/Interim (old) Food Package Diagram.webp" alt="Architecture Image">
+<img src="/assets/img/Interim (old) Menus Package Diagram.webp" alt="Architecture Image">
+<img src="/assets/img/Interim (old) game Package Diagram.webp" alt="Architecture Image">
 <i> These are the <b>finalised</b> UML Class Diagrams, seen as part of our submitted Arch1.pdf:</i>
-<img src="/assets/img/diagram1.png" alt="Architecture Image">
-<img src="/assets/img/diagram2.png" alt="Architecture Image">
-<img src="/assets/img/diagram3.png" alt="Architecture Image">
-<img src="/assets/img/diagram4.png" alt="Architecture Image">
-<img src="/assets/img/diagram5.png" alt="Architecture Image">
-<img src="/assets/img/diagram6.png" alt="Architecture Image">
+<img src="/assets/img/menus Package Diagram.webp" alt="Architecture Image">
+<img src="/assets/img/ingredients Package Diagram.webp" alt="Architecture Image">
+<img src="/assets/img/game Package Diagram.webp" alt="Architecture Image">
 

@@ -7,7 +7,7 @@
 <img src="/CRC/combined1.PNG" alt="Architecture Image">
 <img src="/CRC/combined2.PNG" alt="Architecture Image">
 <h3>UML Diagrams</h3>
-<p> <b>To complete our design architecture, we built UML class diagrams, listed below:<b> </p>
+<p> <b>To complete our design architecture, we built UML class diagrams, listed below:</b> </p>
 <p></p>
 <i>These are the <b>prototype/interim</b> UML Diagrams we developed, which ended up changing as our development progressed:</i>
 <img src="/assets/img/Interim (old) Food Package Diagram.webp" alt="Architecture Image">
